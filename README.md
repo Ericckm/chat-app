@@ -1,12 +1,12 @@
-<h1> Chat App </h1>
+# Chat App
 
-The first thing needed to run the project is to install the dependencys.
-
+# Installation
 npm install
 
 npm install -D nodemon
 
+# Description
 Real time chat application based on rooms, each rooms is apart from the other and also has a geolocation system to send your actual location.
 
-Stacks:
+# Stacks
 HTML, CSS, Javascript, Nodejs, Express, Socket.Io.
