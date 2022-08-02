@@ -10,3 +10,6 @@ Real time chat application based on rooms, each rooms is apart from the other an
 
 # Stacks
 HTML, CSS, Javascript, Nodejs, Express, Socket.Io.
+
+# Deployed at Heroku 
+https://ericckm-chat-app.herokuapp.com/
