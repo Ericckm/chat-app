@@ -16,3 +16,6 @@ HTML, CSS, Javascript, Nodejs, Express, Socket.Io.
 
 # Deployed at Heroku 
 https://ericckm-chat-app.herokuapp.com/
+
+# Credits
+Chat-app was one of the projects from Udemy - The Complete Node.js Developer Course
